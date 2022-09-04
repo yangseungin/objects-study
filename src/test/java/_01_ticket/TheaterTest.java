@@ -2,9 +2,6 @@ package _01_ticket;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -59,12 +56,4 @@ class TheaterTest {
     private Theater 극장생성() {
         return new Theater(판매원생성());
     }
-
-    private List<Ticket> 티켓뭉치생성() {
-        List<Ticket> tickets = new ArrayList<>();
-        tickets.add(new Ticket(티켓가격));
-        return tickets;
-    }
-
-
 }
