@@ -26,6 +26,10 @@ public class Bag {
         this.ticket = ticket;
     }
 
+    public Long getAmount() {
+        return amount;
+    }
+
     public void minusAmount(Long amount) {
         this.amount -= amount;
     }
