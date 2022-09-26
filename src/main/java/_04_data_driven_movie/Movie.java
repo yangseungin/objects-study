@@ -1,6 +1,6 @@
 package _04_data_driven_movie;
 
-import _02_movie.DiscountCondition;
+
 import _02_movie.Money;
 import lombok.Getter;
 import lombok.Setter;
