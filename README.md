@@ -32,3 +32,10 @@
 - 이유
 - 인상깊었던 점
 - 액션 플랜
+
+# 정리
+[1장](https://thunder-king-b95.notion.site/1-432741581dac43b3a63e62c58cd1bd59)  
+[2장](https://thunder-king-b95.notion.site/2-495f05b5bce1466cab73320a435bdd7e)  
+[3장](https://thunder-king-b95.notion.site/3-11a38f8dbd81437590957f4523a9b578)  
+[5장](https://thunder-king-b95.notion.site/5-399677fcc88043bd9ba7267cc2aa3996)  
+[6장](https://thunder-king-b95.notion.site/6-6d617499373e41b59c4a758ef4ce8706)  
